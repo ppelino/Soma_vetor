@@ -24,7 +24,7 @@ public class S_vetor {
 		System.out.println();
 		System.out.print("VALORES = ");
 		for (int i = 0; i < N; i++) {
-			System.out.print(String.format("%.1f", vet[i]));
+			System.out.print(String.format("%.1f ", vet[i]));
 		}
 		System.out.println();
 		
